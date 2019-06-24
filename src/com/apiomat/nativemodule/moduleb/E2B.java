@@ -41,7 +41,7 @@ import com.apiomat.nativemodule.basics.*;
     requiredUserRoleWrite=com.apiomat.nativemodule.UserRole.Owner, restrictResourceAccess=false,    allowedRolesCreate={}, allowedRolesRead={},
     allowedRolesWrite={}, allowedRolesGrant={}, 
     roleClassesMap={})
-public class E2B extends com.apiomat.nativemodule.AbstractClientDataModel<com.apiomat.nativemodule.moduleb.E2B> implements com.apiomat.nativemodule.IModel<com.apiomat.nativemodule.moduleb.E2B>
+public class E2B extends com.apiomat.nativemodule.modulec.E2C
 {
     /**
      * Contains the name of the module that this model belongs to
